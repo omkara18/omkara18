@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=omkara18&label=Profile%20views&color=4dfcff&style=flat" alt="Omkara18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkara18&label=Profile%20views&color=0e75b6&style=flat" alt="omkara18" /></p>
 
 ### Connect with me:
 
