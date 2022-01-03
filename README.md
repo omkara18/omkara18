@@ -14,7 +14,7 @@
 ### ACtivity Diagram
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Omkara18&theme=react-dark&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Omkara18&theme=graywhitek&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&hide_border=true" width="100%"/>
 </p>
 
 <br>
