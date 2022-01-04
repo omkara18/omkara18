@@ -6,7 +6,8 @@
   <img align="left" alt="Omkar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://omkara18.github.io/omkarshelke.io/">
-  <img align="left" alt="Omkar's Portfolio" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/portfolio.svg" />
+  <img align="left" alt="Omkar's Portfolio" width="22px"  src="https://img.icons8.com/stickers/50/000000/domain.png" />
+ 
 </a>
 <a href="omkarshelke1125@gmail.com"><img align="left" alt="Omkar's MailID" width="72px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 
