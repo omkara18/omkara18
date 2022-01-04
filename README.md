@@ -2,11 +2,11 @@
 <a href="https://twitter.com/Omkara25">
   <img align="left" alt="OmkarShelke | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="">
+<a href="https://www.linkedin.com/in/omkar-shelke-95628018a">
   <img align="left" alt="Omkar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="">
-  <img align="left" alt="Omkar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/portfolio.svg" />
+<a href="https://omkara18.github.io/omkarshelke.io/">
+  <img align="left" alt="Omkar's Portfolio" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/portfolio.svg" />
 </a>
 <a href="omkarshelke1125@gmail.com"><img align="left" alt="Omkar's MailID" width="72px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 
